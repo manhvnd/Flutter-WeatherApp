@@ -1,17 +1,3 @@
-# weather_app
+# **Weather App using BloC design pattern**
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter-WeatherApp
+![image](https://github.com/manhvnd/Flutter-WeatherApp/assets/88848672/72c1e7a0-348e-4cad-aa14-ed235f084f5f)
